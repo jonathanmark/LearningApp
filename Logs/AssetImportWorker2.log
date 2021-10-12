@@ -1,0 +1,35 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.14f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+/Users/macbookair/Documents/Unity/MaeriMobile
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+52843
+Successfully changed project path to: /Users/macbookair/Documents/Unity/MaeriMobile
+/Users/macbookair/Documents/Unity/MaeriMobile
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1769.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.14f1 (d0d1bb862f9d)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.14f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/macbookair/Documents/Unity/MaeriMobile/Assets
+GfxDevice: creating device client; threaded=0
+2021-10-05 21:18:39.358 Unity[7578:436538] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-10-05 21:18:39.358 Unity[7578:436538] Metal devices available: 1
+2021-10-05 21:18:39.358 Unity[7578:436538] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-10-05 21:18:39.419 Unity[7578:436538] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.14f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.14f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56578
+Begin MonoManager ReloadAssembly

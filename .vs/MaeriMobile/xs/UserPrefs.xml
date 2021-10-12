@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{5A23C625-AAE4-34D7-0E86-4A10B7F7407F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/MainMenuScriptManager.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/MainMenu.cs" Line="21" Column="32" />
+      <File FileName="Assets/_Scripts/PlayerPrefsManager/PlayerPrefsManager.cs" Line="24" Column="54" />
+      <File FileName="Assets/_Scripts/Score/ScoreManager.cs" />
+      <File FileName="Assets/_Scripts/WordHunt/Buttons.cs" Line="29" Column="77" />
+      <File FileName="Assets/_Scripts/MainMusicTheme.cs" Line="10" Column="6" />
+      <File FileName="Assets/_Scripts/MainMenuScriptManager.cs" Line="129" Column="29" />
+      <File FileName="Assets/_Scripts/PLAYERPREFS.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MaeriMobile" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Scripts" expanded="True">
+                <Node name="MatchingColors" expanded="True" />
+                <Node name="Name" expanded="True" />
+                <Node name="PlayerPrefsManager" expanded="True" />
+                <Node name="Score" expanded="True" />
+                <Node name="Spelling" expanded="True" />
+                <Node name="WordHunt" expanded="True" />
+                <Node name="MainMenuScriptManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b1c5800d-cb9b-4044-ad6d-f762c10955b6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookair/Documents/Unity/MaeriMobile/Assets/_Scripts/MatchingColors/Stars.cs" relfile="Assets/_Scripts/MatchingColors/Stars.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

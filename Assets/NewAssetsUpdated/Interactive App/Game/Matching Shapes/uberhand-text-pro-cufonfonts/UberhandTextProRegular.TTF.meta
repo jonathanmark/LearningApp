@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cce7b19c07ed04b49ab54e194f0c6719
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Uberhand Text Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c04d969bf0c3f48f2b5edd081917930e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
